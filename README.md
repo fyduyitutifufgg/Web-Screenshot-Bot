@@ -8,6 +8,10 @@ A Telegram _Web-Screenshot_ Bot Based on Pyrogram
 
 Telegram Bot that creates screenshot _[PNG/JPEG]_ or PDF of a given link. Can be matched with various other settings like resolution, partial or full-page rendering. The bot can currently be found in @BetterWebShotBot.
 
+### <b>The Easy way</b>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Available Resolutions are :
 
 1. 640x480
